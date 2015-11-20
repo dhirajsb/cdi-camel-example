@@ -4,7 +4,8 @@
   "labels": {},
   "metadata": {
     "annotations": {
-      "description": "# CDI Camel QuickStart\n\nThis example shows how to work with Camel in the Java Container using CDI to configure components,\nendpoints and beans.\n\nThis example is implemented using Java code with CDI injected resources such as Camel endpoints and Java beans.\n\n      "iconClass": "icon-java"
+      "description": "# CDI Camel QuickStart\n\nThis example shows how to work with Camel in the Java Container using CDI to configure components,\nendpoints and beans.\n\nThis example is implemented using Java code with CDI injected resources such as Camel endpoints and Java beans.\n\n",
+      "iconClass": "icon-java"
     },
     "labels": {},
     "name": "s2i-quickstart-cdi-camel"
